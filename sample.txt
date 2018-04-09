@@ -1,3 +1,3 @@
 猴子也會的git命令
 add新東西
-commit 紀錄索引的狀態
+commit  紀錄索引的狀態
